@@ -1,1 +1,1 @@
-From docker.io/homeassistant/home-assistant:latest
+From docker.io/homeassistant/home-assistant
